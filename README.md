@@ -24,14 +24,18 @@
 </div>
 
 ## ⚙️ Player Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex12367o&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex12367o&show_icons=true&theme=radical)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex12367o&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex12367o&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex12367o&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex12367o&theme=react-dark&area=true&hide_border=false&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"
        alt="Activity Graph" width="900" height="400"/>
 </p>
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <p align="center">
   <!-- Snake Game Animation -->
