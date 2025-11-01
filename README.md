@@ -17,6 +17,12 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23FF512F?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%2300C9FF?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%23FCE38A?style=for-the-badge&logo=python&logoColor=306998">
+</div>
+
 ## ⚙️ Player Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex12367o&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex12367o&show_icons=true&theme=radical)
