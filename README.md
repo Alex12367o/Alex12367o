@@ -5,6 +5,12 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<p align="center">
+  <!-- Snake Game Animation -->
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" 
+       alt="Snake Game" width="600"/>
+</p>
+
 ### 🎮 About Me
 > 🧠 Level 21 | ⚙️ Developer Class | 🕹️ Exploring the Tech Realm
 
