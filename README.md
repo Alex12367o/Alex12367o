@@ -24,6 +24,7 @@
 
 ## ⚙️ Player Stats
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Alex12367o&color=blueviolet)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex12367o&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex12367o&show_icons=true&theme=radical)
@@ -37,15 +38,7 @@
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-<p align="center">
-  <!-- Snake Game Animation -->
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" 
-       alt="Snake Game" width="600"/>
-</p>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Alex12367o&color=blueviolet)
 
 ### 🎧 Current Vibes
 > "Coding... Leveling Up... and Collecting Bugs like Achievements."
