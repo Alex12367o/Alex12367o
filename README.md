@@ -28,7 +28,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex12367o&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex12367o&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex12367o&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Alex12367o&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex12367o&theme=react-dark&area=true&hide_border=false&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"
@@ -44,6 +45,8 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Alex12367o&color=blueviolet)
 
 ### 🎧 Current Vibes
 > "Coding... Leveling Up... and Collecting Bugs like Achievements."
