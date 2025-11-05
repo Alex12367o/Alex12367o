@@ -1,19 +1,18 @@
-<!-- Profile Header -->
-<h1 align="center">👾 Welcome to My Devverse 👾</h1>
-<h2 align="center">Hi, I'm <span style="color:#FF1177">Pabitra Dolai</span></h2>
-<h4 align="center">💻 A passionate developer from India 🚀</h4>
+<!-- 🌌 GitHub Profile README by ChatGPT -->
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h1 align="center">Hey there, I'm Alex 👋</h1>
+<h3 align="center">⚙️ Developer | 🤖 Bot Maker | 💡 Tech Explorer</h3>
 
-### 🎮 About Me
-> 🧠 Level 21 | ⚙️ Developer Class | 🕹️ Exploring the Tech Realm
+---
 
-- 🔭 Working on: **[Your Project / Bot / Website]**
-- 🌱 Learning: **[New Tech or Skill]**
-- 👯 Open to collaborate on: **Open Source / GitHub Projects**
-- 💬 Ask me about: **[Languages or Topics you know well]**
-- 📫 Contact: **[Your Email / Telegram / Portfolio link]**
-- ⚡ Fun fact: **[A cool or funny fact about you]**
+### ⚡ About Me
+> 🚀 Turning coffee into code & ideas into projects  
+
+- 🧠 Passionate about **bots, automation & APIs**  
+- 🐍 Mostly coding in **Python & JavaScript**  
+- 🧩 Exploring **AI tools & Telegram integrations**  
+- 💬 Love building things that make life easier  
+- 🎯 Motto: *"Build fast, break smart, fix better."*
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
